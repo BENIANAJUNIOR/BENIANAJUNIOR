@@ -1,26 +1,24 @@
 # Hello, I'm BENIANA
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a motivated security analyst looking for an entry-level cybersecurity role where I
+can use my skills in network security, security policy, risk management, and backend
+development to protect organizational systems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in information technology has ignited a deep passion for cybersecurity, inspiring me to transition into this dynamic and ever-evolving field. I am eager to bring my skills and dedication to a Cisco technology company, where I can actively monitor, detect, and respond to cyber threats while continuously learning and growing. My goal is to contribute to a strong security posture, protect critical assets, and be part of a team that makes a real impact in the world of cybersecurity.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+                  
+  SIEM Implementation and Log Analysis          
+  Network Traffic Monitoring and Attack Detection 
+  Security Automation with Shuffle SOAR         
+  Incident Response Planning and Execution      
+  Case Management with TheHive                  
+  Scripting and Automation for Threat Mitigation 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
