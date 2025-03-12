@@ -13,12 +13,12 @@ My journey in information technology has ignited a deep passion for cybersecurit
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
                   
-  SIEM Implementation and Log Analysis          
-  Network Traffic Monitoring and Attack Detection 
-  Security Automation with Shuffle SOAR         
-  Incident Response Planning and Execution      
-  Case Management with TheHive                  
-  Scripting and Automation for Threat Mitigation 
+- SIEM Implementation and Log Analysis          
+- Network Traffic Monitoring and Attack Detection 
+- Security Automation with Shuffle SOAR         
+- Incident Response Planning and Execution      
+- Case Management with TheHive                  
+- Scripting and Automation for Threat Mitigation 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
