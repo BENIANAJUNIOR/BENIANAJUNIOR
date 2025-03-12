@@ -11,12 +11,14 @@ development to protect organizational systems.
 My journey in information technology has ignited a deep passion for cybersecurity, inspiring me to transition into this dynamic and ever-evolving field. I am eager to bring my skills and dedication to a Cisco technology company, where I can actively monitor, detect, and respond to cyber threats while continuously learning and growing. My goal is to contribute to a strong security posture, protect critical assets, and be part of a team that makes a real impact in the world of cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
                   
 - SIEM Implementation and Log Analysis          
-- Network Traffic Monitoring and Attack Detection 
+- Network Traffic Monitoring and Attack Detection
+- Programming: SQL, Python, Java, HTML/ CSS, .NET Core, C#, Redis.
 - Security Automation with Shuffle SOAR         
-- Incident Response Planning and Execution      
+- Incident Response Planning and Execution
+- Implemented CI/CD pipelines to automate testing, deployment, and monitoring
+  of backend services.
 - Case Management with TheHive                  
 - Scripting and Automation for Threat Mitigation 
 
