@@ -12,18 +12,20 @@ My journey in information technology has ignited a deep passion for cybersecurit
 
 ## Skills
                   
-- SIEM Implementation and Log Analysis          
+- SIEM Implementation and Log Analysis 
+- Security Framework, Controls, Design     
 - Network Traffic Monitoring and Attack Detection
 - Programming: SQL, Python, Java, HTML/ CSS, .NET Core, C#, Redis.
-- Security Automation with Shuffle SOAR         
+- Security Automation with Shuffle SOAR 
+- Linux line-command      
 - Incident Response Planning and Execution
 - Implemented CI/CD pipelines to automate testing, deployment, and monitoring
   of backend services.
-- Case Management with TheHive                  
+- Case Management with TheHive 
+- Penetration Testing             
 - Scripting and Automation for Threat Mitigation 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
