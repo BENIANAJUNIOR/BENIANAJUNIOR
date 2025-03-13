@@ -28,7 +28,7 @@ My journey in information technology has ignited a deep passion for cybersecurit
 ## Tools
 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  -  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/python.png" alt="python"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> 
