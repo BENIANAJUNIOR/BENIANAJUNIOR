@@ -47,14 +47,12 @@ My journey in information technology has ignited a deep passion for cybersecurit
 
 ## Certifications
 
-<div>
 - CompTIA Security+
 - Google Cybersecurity Professional - Coursera
 - Junior Cybersecurity Analyst Career Path - Cisco Networking Academmy
 - Cybersecurity Threats - Great Learning Academy
 - Network Security - Great Learning Academy
 
-</div>
 
 ## Projects
 - Detection Lab
