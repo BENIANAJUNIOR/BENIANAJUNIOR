@@ -32,7 +32,7 @@ My journey in information technology has ignited a deep passion for cybersecurit
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-docker-color-16.png">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
     
 
 </div>
