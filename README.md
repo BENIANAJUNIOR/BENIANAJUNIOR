@@ -55,5 +55,5 @@ My journey in information technology has ignited a deep passion for cybersecurit
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Memos Chats
+  
