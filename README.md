@@ -1,20 +1,4 @@
 # Hello, I'm BENIANA
-<style>
-.button {
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-.button1 {background-color: #04AA6D;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
-</style>
 
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
@@ -64,9 +48,11 @@ My journey in information technology has ignited a deep passion for cybersecurit
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
+- CompTIA Security+
+- Google Cybersecurity Professional - Coursera
+- Junior Cybersecurity Analyst Career Path - Cisco Networking Academmy
+- Cybersecurity Threats - Great Learning Academy
+- Network Security - Great Learning Academy
 
 </div>
 
