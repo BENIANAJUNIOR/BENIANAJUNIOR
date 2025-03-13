@@ -30,17 +30,17 @@ My journey in information technology has ignited a deep passion for cybersecurit
 <div>
   -  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/python.png" alt="python"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> 
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img width="50" height="50" src="https://img.icons8.com/clouds/100/react.png" alt="react"/>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+        <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
     <img width="50" height="50" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
+  <img width="50" height="50" src="https://img.icons8.com/clouds/100/react.png" alt="react"/>
+    <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/python.png" alt="python"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> 
     
 </div>
 
