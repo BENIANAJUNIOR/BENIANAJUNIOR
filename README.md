@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 
-I am a motivated security analyst looking for an entry-level cybersecurity role where I
-can use my skills in network security, security policy, risk management, and backend
-development to protect organizational systems.
+I am a motivated CyberSecurity Analyst with a strong foundation in network security, security policy, and risk management. I am seeking a dynamic role where I can leverage my expertise in cybersecurity alongside my skills in frontend development to ensure the integrity and security of organizational systems. With hands-on experience in identifying vulnerabilities, implementing security protocols, and contributing to secure application development, I aim to protect and enhance the digital infrastructure of forward-thinking companies.
 
 ## Objective
 
